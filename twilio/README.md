@@ -41,6 +41,7 @@ Deploy your integration to live using the following command. Replace PROJECT-ID 
 gcloud beta run deploy --image gcr.io/prueba-bot-wa/dialogflow-twilio --update-env-vars GOOGLE_APPLICATION_CREDENTIALS=prueba-bot-wa-af1fc8d73f3d.json --memory 1Gi
 ```
 If you have this problem with beta components.
+
 ![alt text](images/twilio-error-beta-component.png)
 
 - When prompted for a target platform, select a platform by entering the corresponding number (for example, ``1`` for ``Cloud Run (fully managed)``).
