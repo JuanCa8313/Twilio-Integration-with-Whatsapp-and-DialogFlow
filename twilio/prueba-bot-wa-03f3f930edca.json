@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "prueba-bot-wa",
+  "private_key_id": "03f3f930edca4c51d70af7e70dbe442263f4ff33",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC0ad66IkSwfMYa\nxMu0A7LhJjhLKLdfQebI4hHGIct1Snthmde8QuTugrxaBdKTGZecldi5WqlQa2TN\nEtcKp6hxad1/QGO3wWu43HQ4i2BHXpZQUZkP9L1trgY28Q0tkS6pDKdTX22rTLrs\nrSH6IHdXNrHqtfZVPwTggo8BELCwK0Dnr0sEZKbvoL7BRXhlJom4lri5BanvjE2k\n3q+pKRUkkBYna1jMLV9+eaaUGUYsUge9z+K2Kx0oL32q6mrBvNNGT8waA6UgJ4SO\nkthJtEPV/a7kUca3NRrO17FnlMdGQwlvzoGKjSQfNmLX3dLj30mUVqbiWnxp/gxI\n5ZlTUS4nAgMBAAECggEANBO5WIZKyJ0DvDdhS5GjwWz8Y+mZYPRPb14eXlBj//Pj\ngI1dYjj3B0gSoXO70H1bL7ZrbDmY1R9i5fVRwIAb1b0G1FQcVK8O7rooDChjPsa1\nYfLj2WC+i1nn7lUPhj85tk9yP1U0/XT1Ihtpyt8zQ6gEnGkw9XNu73WQXPDZ58fg\nZlKB/4G0ClhubrRxRhvnyjjQskmWlOS/xJkQfBUMFJEyd3Q100x/3Al7I98Xi8uk\nTSdJwTIMrzGxtWR05gcgE1ri4nuOJFEhIeB2krYLQi2q+B9rng6g4XsmSfhr8F1Z\n03hMfCWOqPypnQjaS0tvC5ZR4tjeMtFpZm7FpvgY2QKBgQDb8aoxVPc/KS1FJlAX\nVFMVJlooofOPO2xsPpEJNag53PNqpvhbKd06EQ9mIW/dHTjkWdhl/JB0bP0gLjgW\nRaic7FqjHUW/hb45fUKC8RuKFDJTAQcBhHScb/k3DkSthTxlulGa7hO10p3MP7yr\ncDNQvDc292KnW9UpnDKyp9sz+QKBgQDR/T2gtjfKCJrUk0fRsFSahXCynCiQLBeJ\nGIHwPdqBvaNhriObDNDWbKxEcuAJA5RdBWvOe0NIIGhTvhi/Erw+RmBxK806OuON\ngwhLSgOH5MpO5I1VSQXji1691WOWqwnfBG1+p9462Sc2S3LIvHycVFNM9hacdcon\nx7bKXQe7HwKBgQDM7CPbJMPcaDwSknjK07k5GmukMghgqkgBrmWphAHCL7fn5bu+\nDIpfYKfNS1gTVve74m35z9CzeRx6UDXXon1P//MOyOZEZJLws2E16Pj0tI6SwYFK\ni6OuYbF792JLnbjBO1BvHmTk4mA9fiEGRlq5XTPAlcuoDKrVwv+Fb1mP2QKBgCeJ\n+3SrWs3b2Ot13+wHu6Zswc+fv7OF2diimLTXsLEFOCJIW8PyIdB+HeG1j6Gi3ui1\nAJuccgq+r2Y1QQuZR4CiV753dOkl9XrL1V/3y7pmxgEc38/TNByoPWqZJ2tTQUSQ\n3N0gVqPWB6AdjLtnYj89UYIIRDGprCrZW/22jqIZAoGAGOEVSoTEK9/Cx43FsuHZ\n4jHVoNN9JYmXX2ipGoFHxyaLV5U2Mj0/v26ubfpDyyjRASkBRJ4ZyjxFsHQEBG1y\nNz53Jc5CIj/Zf3AKsQPPB4EAGH8KJdsKopD/c11BgPV6tVkJyjoQyQfXGMvxH01x\nDpRkhFSQ4RotNYzqNB0jyhc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-integration-whatsap@prueba-bot-wa.iam.gserviceaccount.com",
+  "client_id": "105659391997041675439",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-integration-whatsap%40prueba-bot-wa.iam.gserviceaccount.com"
+}
