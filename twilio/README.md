@@ -44,6 +44,8 @@ If you have this problem with beta components.
 
 ![alt text](images/twilio-error-beta-component.png)
 
+You should run Google Cloud SDK Shell as administrator and paste the command there, automaticlly console will install components.
+
 - When prompted for a target platform, select a platform by entering the corresponding number (for example, ``1`` for ``Cloud Run (fully managed)``).
  - When prompted for a region, select a region (for example, ``us-central1``).
  - When prompted for a service name hit enter to accept the default.
